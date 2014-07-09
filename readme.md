@@ -5,7 +5,7 @@ require 'over9000'
 => true
 ```
 
-[Imgur](http://i.imgur.com/eELWplE.gif)
+![Imgur](http://i.imgur.com/eELWplE.gif)
 
 
 ---
